@@ -1,0 +1,14 @@
+﻿@*Name:Daria Green*@
+@*Email: Dgreen50@cnm.edu*@
+@*Program: HackerSpace*@
+
+@page "/twowaydatabinding"
+@rendermode InteractiveServer
+<h3>Two Way Data Binding Demo Page</h3>
+
+<input @bind="username" @bind:event="oninput" />
+<p>Current username: @username</p>
+
+@code {
+    private string username = "";
+}

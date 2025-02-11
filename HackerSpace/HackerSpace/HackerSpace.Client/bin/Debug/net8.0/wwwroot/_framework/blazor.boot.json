@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HackerSpace.Client",
   "resources": {
-    "hash": "sha256-s5E/2GaKrWcSl0Dxk91aHIEg6m+e1Me+YqfJtQxjQv0=",
+    "hash": "sha256-Fh144WOz8Qc4CLghQSkNpBdYHC6RilloUp1LBZr2ig4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -211,10 +211,10 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "HackerSpace.Client.wasm": "sha256-bO8txmLwWSadzEDqqc8RIKt+9BSzxhwhrh/7xvHSz2A="
+      "HackerSpace.Client.wasm": "sha256-HIEPpvh4ME1VpNQBOj7kuE64udlPwRu9SuJQqQN0KjY="
     },
     "pdb": {
-      "HackerSpace.Client.pdb": "sha256-AP2242bh5h8fGhV3AM+1vcqV7YkaxbdUHbViRYSbSw4="
+      "HackerSpace.Client.pdb": "sha256-OusBqlBXqLltGC0v4FkpcEdcEjR6d72rpD8RKAMdUtY="
     }
   },
   "cacheBootResources": true,

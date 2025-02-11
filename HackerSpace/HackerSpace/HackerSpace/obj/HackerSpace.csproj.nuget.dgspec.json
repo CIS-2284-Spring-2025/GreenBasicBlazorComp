@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\HackerSpace.csproj": {}
+    "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\HackerSpace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj": {
+    "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj",
         "projectName": "HackerSpace.Client",
-        "projectPath": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj",
+        "projectPath": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\HackerSpace.csproj": {
+    "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\HackerSpace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\HackerSpace.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\HackerSpace.csproj",
         "projectName": "HackerSpace",
-        "projectPath": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\HackerSpace.csproj",
+        "projectPath": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\HackerSpace.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -130,8 +130,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj": {
-                "projectPath": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj"
+              "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj": {
+                "projectPath": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj"
               }
             }
           }
