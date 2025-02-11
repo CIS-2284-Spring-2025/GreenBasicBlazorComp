@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HackerSpace.bundle.scp.css",
-      "PackagePath": "staticwebassets\\HackerSpace.dwejhfu409.bundle.scp.css"
+      "Id": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HackerSpace.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HackerSpace.eqb12vhtya.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\images\\hackerspacelogo.png",
+      "Id": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\images\\hackerspacelogo.png",
       "PackagePath": "staticwebassets\\images\\hackerspacelogo.png"
     },
     {
