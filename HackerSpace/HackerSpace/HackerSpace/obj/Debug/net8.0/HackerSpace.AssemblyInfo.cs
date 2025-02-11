@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HackerSpace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e07aac91d4389b5de772988cbc54d157b237498a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67e552f1ddcd049cdde9dffdaf9d0b64a4c28c10")]
 [assembly: System.Reflection.AssemblyProductAttribute("HackerSpace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HackerSpace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

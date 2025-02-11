@@ -200,6 +200,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/RoutingDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Um91dGluZ0RlbW9QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-jmzzgnqo7d
