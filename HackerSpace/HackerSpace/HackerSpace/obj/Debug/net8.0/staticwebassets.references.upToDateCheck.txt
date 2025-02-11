@@ -21,3 +21,11 @@ C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.C
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json

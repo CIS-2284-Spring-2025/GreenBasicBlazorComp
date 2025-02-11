@@ -2074,9 +2074,6 @@ C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.C
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\zsuv4k5fgp-tptq2av103.gz
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\039u1qojdg-lfu7j35m59.gz
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\ytxfi9v29l-oyz0vx2fzb.gz
-C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\y7saej5l2p-eafj9nqhg1.gz
-C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\j0hx7jlr4d-awltqt4ohc.gz
-C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\0waft5brtk-5ob4m49h1j.gz
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2092,3 +2089,6 @@ C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.C
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\refint\HackerSpace.Client.dll
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\HackerSpace.Client.pdb
 C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\ref\HackerSpace.Client.dll
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\y7saej5l2p-grk8m8nsve.gz
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\j0hx7jlr4d-mlbm7g25ni.gz
+C:\Users\Daria\source\GreenBasicBlazorComp\HackerSpace\HackerSpace\HackerSpace.Client\obj\Debug\net8.0\compressed\0waft5brtk-klniqoyt1d.gz

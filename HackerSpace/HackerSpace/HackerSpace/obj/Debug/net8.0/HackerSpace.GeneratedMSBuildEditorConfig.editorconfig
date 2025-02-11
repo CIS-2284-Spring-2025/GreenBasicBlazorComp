@@ -184,6 +184,42 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/BasicRazorSyntaxDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXEJhc2ljUmF6b3JTeW50YXhEZW1vUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/CallingMethodsDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXENhbGxpbmdNZXRob2RzRGVtb1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/CodeBlocksDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXENvZGVCbG9ja3NEZW1vUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/ConditionalRenderingDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXENvbmRpdGlvbmFsUmVuZGVyaW5nRGVtb1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/ForAndWhileDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXEZvckFuZFdoaWxlRGVtb1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/LoopingDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXExvb3BpbmdEZW1vUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/RazorSyntaxDemosPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXFJhem9yU3ludGF4RGVtb3NQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/TernaryOperatorDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXFRlcm5hcnlPcGVyYXRvckRlbW9QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/RazorSyntaxDemos/TwoWayDataBindingDemoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclN5bnRheERlbW9zXFR3b1dheURhdGFCaW5kaW5nRGVtb1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Daria/source/GreenBasicBlazorComp/HackerSpace/HackerSpace/HackerSpace/Components/Pages/ToDosPage.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUb0Rvc1BhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
