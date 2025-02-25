@@ -88,7 +88,7 @@
               "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\CallingMethodsDemoPage.razor",
               "ToolTip": "C:\\Users\\Daria\\source\\GreenBasicBlazorComp\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\CallingMethodsDemoPage.razor",
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\CallingMethodsDemoPage.razor",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-11T22:55:12.304Z",
               "EditorCaption": ""
@@ -116,8 +116,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace.Client\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T22:52:46.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:52:46.28Z"
             },
             {
               "$type": "Document",
@@ -129,8 +128,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\ForAndWhileDemoPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T22:49:13.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:49:13.278Z"
             },
             {
               "$type": "Document",
@@ -142,8 +140,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\ToDosPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T03:22:41.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T03:22:41.942Z"
             },
             {
               "$type": "Document",
@@ -155,8 +152,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T21:43:04.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T21:43:04.983Z"
             },
             {
               "$type": "Document",
@@ -168,8 +164,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T19:49:19.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T19:49:19.145Z"
             },
             {
               "$type": "Document",
@@ -181,8 +176,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\LoopingDemoPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T22:48:21.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:48:21.429Z"
             },
             {
               "$type": "Document",
@@ -194,8 +188,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\TernaryOperatorDemoPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T22:46:49.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:46:49.894Z"
             },
             {
               "$type": "Document",
@@ -207,8 +200,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\ConditionalRenderingDemoPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T22:46:09.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:46:09.756Z"
             },
             {
               "$type": "Document",
@@ -220,8 +212,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\BasicRazorSyntaxDemoPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T22:03:23.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:03:23.663Z"
             },
             {
               "$type": "Document",
@@ -233,8 +224,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\CodeBlocksDemoPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T22:15:03.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:15:03.543Z"
             },
             {
               "$type": "Document",
@@ -246,8 +236,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\RoutingDemoPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T21:07:01.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T21:07:01.68Z"
             },
             {
               "$type": "Document",
@@ -259,8 +248,7 @@
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Pages\\RazorSyntaxDemos\\RazorSyntaxDemosPage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T22:00:30.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:00:30.59Z"
             },
             {
               "$type": "Document",
